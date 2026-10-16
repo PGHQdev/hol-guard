@@ -38,6 +38,6 @@
     "Check the url in each capture_screenshot call before approving it. A query string or path can carry data to that host.",
     "Pass redact selectors, patterns (email, phone, secret), or rects, so the data is covered before the image reaches the client or a hosted model.",
     "Capture only URLs you trust. The headless browser runs with --no-sandbox so it works in containers and CI.",
-    "Pin the package version in the launch args, for example npx -y openscreenshot@2.5.0 serve."
+    "Pin the package version in the launch args, for example npx -y openscreenshot@2.5.1."
   ]
 }
